@@ -1,0 +1,49 @@
+.size{
+    width: 45%;
+}
+
+#Certificates > .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Dhanesh{
+    color: rgb(72, 0, 240);
+}
+
+body{
+    background-color: black;
+}
+
+.gg{
+    color: orangered;
+}
+
+#Projects > h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Certificates > h1{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.for-pro{
+    margin-bottom: 40px
+}
+
+.Resume{
+    width: 45%;
+}
+
+#Projects > .container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
